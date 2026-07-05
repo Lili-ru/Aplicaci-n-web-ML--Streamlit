@@ -1,0 +1,521 @@
+country_name,year,v2x_libdem
+Mexico,2000,0.481
+Mexico,2001,0.484
+Mexico,2002,0.494
+Mexico,2003,0.499
+Mexico,2004,0.505
+Mexico,2005,0.505
+Mexico,2006,0.478
+Mexico,2007,0.454
+Mexico,2008,0.456
+Mexico,2009,0.459
+Mexico,2010,0.465
+Mexico,2011,0.468
+Mexico,2012,0.457
+Mexico,2013,0.42
+Mexico,2014,0.421
+Mexico,2015,0.433
+Mexico,2016,0.434
+Mexico,2017,0.44
+Mexico,2018,0.452
+Mexico,2019,0.428
+Mexico,2020,0.406
+Mexico,2021,0.371
+Mexico,2022,0.33
+Mexico,2023,0.302
+Mexico,2024,0.246
+Mexico,2025,0.221
+Colombia,2000,0.426
+Colombia,2001,0.422
+Colombia,2002,0.414
+Colombia,2003,0.421
+Colombia,2004,0.424
+Colombia,2005,0.428
+Colombia,2006,0.449
+Colombia,2007,0.461
+Colombia,2008,0.462
+Colombia,2009,0.465
+Colombia,2010,0.498
+Colombia,2011,0.539
+Colombia,2012,0.54
+Colombia,2013,0.537
+Colombia,2014,0.545
+Colombia,2015,0.551
+Colombia,2016,0.547
+Colombia,2017,0.548
+Colombia,2018,0.533
+Colombia,2019,0.511
+Colombia,2020,0.496
+Colombia,2021,0.499
+Colombia,2022,0.561
+Colombia,2023,0.57
+Colombia,2024,0.554
+Colombia,2025,0.555
+Brazil,2000,0.717
+Brazil,2001,0.717
+Brazil,2002,0.721
+Brazil,2003,0.722
+Brazil,2004,0.722
+Brazil,2005,0.772
+Brazil,2006,0.77
+Brazil,2007,0.769
+Brazil,2008,0.769
+Brazil,2009,0.769
+Brazil,2010,0.776
+Brazil,2011,0.781
+Brazil,2012,0.777
+Brazil,2013,0.781
+Brazil,2014,0.783
+Brazil,2015,0.769
+Brazil,2016,0.653
+Brazil,2017,0.641
+Brazil,2018,0.608
+Brazil,2019,0.528
+Brazil,2020,0.534
+Brazil,2021,0.531
+Brazil,2022,0.54
+Brazil,2023,0.695
+Brazil,2024,0.712
+Brazil,2025,0.704
+El Salvador,2000,0.315
+El Salvador,2001,0.326
+El Salvador,2002,0.331
+El Salvador,2003,0.332
+El Salvador,2004,0.336
+El Salvador,2005,0.338
+El Salvador,2006,0.348
+El Salvador,2007,0.351
+El Salvador,2008,0.357
+El Salvador,2009,0.399
+El Salvador,2010,0.422
+El Salvador,2011,0.425
+El Salvador,2012,0.429
+El Salvador,2013,0.437
+El Salvador,2014,0.465
+El Salvador,2015,0.462
+El Salvador,2016,0.461
+El Salvador,2017,0.465
+El Salvador,2018,0.428
+El Salvador,2019,0.393
+El Salvador,2020,0.316
+El Salvador,2021,0.156
+El Salvador,2022,0.118
+El Salvador,2023,0.106
+El Salvador,2024,0.09
+El Salvador,2025,0.09
+Bolivia,2000,0.527
+Bolivia,2001,0.52
+Bolivia,2002,0.51
+Bolivia,2003,0.515
+Bolivia,2004,0.541
+Bolivia,2005,0.534
+Bolivia,2006,0.462
+Bolivia,2007,0.458
+Bolivia,2008,0.453
+Bolivia,2009,0.435
+Bolivia,2010,0.4
+Bolivia,2011,0.398
+Bolivia,2012,0.391
+Bolivia,2013,0.396
+Bolivia,2014,0.391
+Bolivia,2015,0.368
+Bolivia,2016,0.375
+Bolivia,2017,0.36
+Bolivia,2018,0.341
+Bolivia,2019,0.241
+Bolivia,2020,0.209
+Bolivia,2021,0.362
+Bolivia,2022,0.338
+Bolivia,2023,0.344
+Bolivia,2024,0.31
+Bolivia,2025,0.352
+Haiti,2000,0.28
+Haiti,2001,0.27
+Haiti,2002,0.265
+Haiti,2003,0.259
+Haiti,2004,0.108
+Haiti,2005,0.097
+Haiti,2006,0.211
+Haiti,2007,0.299
+Haiti,2008,0.301
+Haiti,2009,0.296
+Haiti,2010,0.275
+Haiti,2011,0.262
+Haiti,2012,0.268
+Haiti,2013,0.262
+Haiti,2014,0.262
+Haiti,2015,0.243
+Haiti,2016,0.255
+Haiti,2017,0.251
+Haiti,2018,0.257
+Haiti,2019,0.247
+Haiti,2020,0.237
+Haiti,2021,0.204
+Haiti,2022,0.154
+Haiti,2023,0.084
+Haiti,2024,0.101
+Haiti,2025,0.098
+Honduras,2000,0.326
+Honduras,2001,0.326
+Honduras,2002,0.327
+Honduras,2003,0.333
+Honduras,2004,0.333
+Honduras,2005,0.331
+Honduras,2006,0.312
+Honduras,2007,0.315
+Honduras,2008,0.323
+Honduras,2009,0.283
+Honduras,2010,0.239
+Honduras,2011,0.248
+Honduras,2012,0.24
+Honduras,2013,0.255
+Honduras,2014,0.27
+Honduras,2015,0.245
+Honduras,2016,0.254
+Honduras,2017,0.244
+Honduras,2018,0.233
+Honduras,2019,0.229
+Honduras,2020,0.233
+Honduras,2021,0.248
+Honduras,2022,0.389
+Honduras,2023,0.398
+Honduras,2024,0.383
+Honduras,2025,0.38
+Peru,2000,0.185
+Peru,2001,0.567
+Peru,2002,0.648
+Peru,2003,0.651
+Peru,2004,0.651
+Peru,2005,0.659
+Peru,2006,0.652
+Peru,2007,0.647
+Peru,2008,0.65
+Peru,2009,0.649
+Peru,2010,0.658
+Peru,2011,0.67
+Peru,2012,0.698
+Peru,2013,0.689
+Peru,2014,0.691
+Peru,2015,0.688
+Peru,2016,0.673
+Peru,2017,0.677
+Peru,2018,0.698
+Peru,2019,0.694
+Peru,2020,0.706
+Peru,2021,0.66
+Peru,2022,0.621
+Peru,2023,0.572
+Peru,2024,0.501
+Peru,2025,0.506
+Argentina,2000,0.67
+Argentina,2001,0.674
+Argentina,2002,0.661
+Argentina,2003,0.638
+Argentina,2004,0.632
+Argentina,2005,0.625
+Argentina,2006,0.614
+Argentina,2007,0.61
+Argentina,2008,0.59
+Argentina,2009,0.583
+Argentina,2010,0.578
+Argentina,2011,0.573
+Argentina,2012,0.582
+Argentina,2013,0.588
+Argentina,2014,0.595
+Argentina,2015,0.59
+Argentina,2016,0.612
+Argentina,2017,0.609
+Argentina,2018,0.63
+Argentina,2019,0.618
+Argentina,2020,0.634
+Argentina,2021,0.639
+Argentina,2022,0.654
+Argentina,2023,0.695
+Argentina,2024,0.558
+Argentina,2025,0.524
+Venezuela,2000,0.31
+Venezuela,2001,0.288
+Venezuela,2002,0.255
+Venezuela,2003,0.243
+Venezuela,2004,0.216
+Venezuela,2005,0.182
+Venezuela,2006,0.168
+Venezuela,2007,0.162
+Venezuela,2008,0.159
+Venezuela,2009,0.16
+Venezuela,2010,0.154
+Venezuela,2011,0.152
+Venezuela,2012,0.145
+Venezuela,2013,0.109
+Venezuela,2014,0.102
+Venezuela,2015,0.103
+Venezuela,2016,0.118
+Venezuela,2017,0.082
+Venezuela,2018,0.061
+Venezuela,2019,0.06
+Venezuela,2020,0.056
+Venezuela,2021,0.056
+Venezuela,2022,0.054
+Venezuela,2023,0.053
+Venezuela,2024,0.046
+Venezuela,2025,0.042
+Nicaragua,2000,0.378
+Nicaragua,2001,0.373
+Nicaragua,2002,0.377
+Nicaragua,2003,0.371
+Nicaragua,2004,0.372
+Nicaragua,2005,0.372
+Nicaragua,2006,0.322
+Nicaragua,2007,0.216
+Nicaragua,2008,0.203
+Nicaragua,2009,0.197
+Nicaragua,2010,0.192
+Nicaragua,2011,0.188
+Nicaragua,2012,0.156
+Nicaragua,2013,0.125
+Nicaragua,2014,0.126
+Nicaragua,2015,0.124
+Nicaragua,2016,0.12
+Nicaragua,2017,0.103
+Nicaragua,2018,0.051
+Nicaragua,2019,0.046
+Nicaragua,2020,0.045
+Nicaragua,2021,0.034
+Nicaragua,2022,0.027
+Nicaragua,2023,0.021
+Nicaragua,2024,0.02
+Nicaragua,2025,0.019
+Chile,2000,0.81
+Chile,2001,0.811
+Chile,2002,0.817
+Chile,2003,0.817
+Chile,2004,0.817
+Chile,2005,0.821
+Chile,2006,0.839
+Chile,2007,0.842
+Chile,2008,0.841
+Chile,2009,0.836
+Chile,2010,0.837
+Chile,2011,0.839
+Chile,2012,0.844
+Chile,2013,0.846
+Chile,2014,0.85
+Chile,2015,0.839
+Chile,2016,0.839
+Chile,2017,0.842
+Chile,2018,0.803
+Chile,2019,0.761
+Chile,2020,0.766
+Chile,2021,0.777
+Chile,2022,0.776
+Chile,2023,0.779
+Chile,2024,0.786
+Chile,2025,0.781
+Costa Rica,2000,0.84
+Costa Rica,2001,0.841
+Costa Rica,2002,0.843
+Costa Rica,2003,0.843
+Costa Rica,2004,0.843
+Costa Rica,2005,0.839
+Costa Rica,2006,0.851
+Costa Rica,2007,0.854
+Costa Rica,2008,0.854
+Costa Rica,2009,0.855
+Costa Rica,2010,0.857
+Costa Rica,2011,0.856
+Costa Rica,2012,0.857
+Costa Rica,2013,0.853
+Costa Rica,2014,0.854
+Costa Rica,2015,0.854
+Costa Rica,2016,0.852
+Costa Rica,2017,0.85
+Costa Rica,2018,0.834
+Costa Rica,2019,0.842
+Costa Rica,2020,0.844
+Costa Rica,2021,0.843
+Costa Rica,2022,0.813
+Costa Rica,2023,0.809
+Costa Rica,2024,0.809
+Costa Rica,2025,0.809
+Ecuador,2000,0.445
+Ecuador,2001,0.445
+Ecuador,2002,0.446
+Ecuador,2003,0.454
+Ecuador,2004,0.452
+Ecuador,2005,0.454
+Ecuador,2006,0.451
+Ecuador,2007,0.407
+Ecuador,2008,0.343
+Ecuador,2009,0.329
+Ecuador,2010,0.309
+Ecuador,2011,0.304
+Ecuador,2012,0.306
+Ecuador,2013,0.265
+Ecuador,2014,0.262
+Ecuador,2015,0.263
+Ecuador,2016,0.264
+Ecuador,2017,0.338
+Ecuador,2018,0.458
+Ecuador,2019,0.446
+Ecuador,2020,0.481
+Ecuador,2021,0.454
+Ecuador,2022,0.504
+Ecuador,2023,0.463
+Ecuador,2024,0.443
+Ecuador,2025,0.386
+Guatemala,2000,0.362
+Guatemala,2001,0.362
+Guatemala,2002,0.362
+Guatemala,2003,0.363
+Guatemala,2004,0.372
+Guatemala,2005,0.373
+Guatemala,2006,0.374
+Guatemala,2007,0.386
+Guatemala,2008,0.395
+Guatemala,2009,0.396
+Guatemala,2010,0.397
+Guatemala,2011,0.393
+Guatemala,2012,0.391
+Guatemala,2013,0.41
+Guatemala,2014,0.412
+Guatemala,2015,0.425
+Guatemala,2016,0.451
+Guatemala,2017,0.444
+Guatemala,2018,0.415
+Guatemala,2019,0.415
+Guatemala,2020,0.402
+Guatemala,2021,0.359
+Guatemala,2022,0.314
+Guatemala,2023,0.338
+Guatemala,2024,0.492
+Guatemala,2025,0.523
+Panama,2000,0.549
+Panama,2001,0.558
+Panama,2002,0.558
+Panama,2003,0.558
+Panama,2004,0.561
+Panama,2005,0.547
+Panama,2006,0.547
+Panama,2007,0.547
+Panama,2008,0.547
+Panama,2009,0.549
+Panama,2010,0.554
+Panama,2011,0.554
+Panama,2012,0.554
+Panama,2013,0.547
+Panama,2014,0.544
+Panama,2015,0.553
+Panama,2016,0.55
+Panama,2017,0.553
+Panama,2018,0.539
+Panama,2019,0.535
+Panama,2020,0.533
+Panama,2021,0.544
+Panama,2022,0.559
+Panama,2023,0.557
+Panama,2024,0.578
+Panama,2025,0.575
+Uruguay,2000,0.797
+Uruguay,2001,0.802
+Uruguay,2002,0.802
+Uruguay,2003,0.79
+Uruguay,2004,0.808
+Uruguay,2005,0.819
+Uruguay,2006,0.823
+Uruguay,2007,0.823
+Uruguay,2008,0.822
+Uruguay,2009,0.825
+Uruguay,2010,0.847
+Uruguay,2011,0.847
+Uruguay,2012,0.847
+Uruguay,2013,0.843
+Uruguay,2014,0.843
+Uruguay,2015,0.832
+Uruguay,2016,0.832
+Uruguay,2017,0.828
+Uruguay,2018,0.836
+Uruguay,2019,0.836
+Uruguay,2020,0.808
+Uruguay,2021,0.789
+Uruguay,2022,0.747
+Uruguay,2023,0.756
+Uruguay,2024,0.768
+Uruguay,2025,0.79
+Dominican Republic,2000,0.391
+Dominican Republic,2001,0.391
+Dominican Republic,2002,0.388
+Dominican Republic,2003,0.385
+Dominican Republic,2004,0.379
+Dominican Republic,2005,0.383
+Dominican Republic,2006,0.378
+Dominican Republic,2007,0.376
+Dominican Republic,2008,0.376
+Dominican Republic,2009,0.377
+Dominican Republic,2010,0.371
+Dominican Republic,2011,0.364
+Dominican Republic,2012,0.366
+Dominican Republic,2013,0.354
+Dominican Republic,2014,0.352
+Dominican Republic,2015,0.344
+Dominican Republic,2016,0.333
+Dominican Republic,2017,0.328
+Dominican Republic,2018,0.339
+Dominican Republic,2019,0.34
+Dominican Republic,2020,0.449
+Dominican Republic,2021,0.484
+Dominican Republic,2022,0.478
+Dominican Republic,2023,0.471
+Dominican Republic,2024,0.495
+Dominican Republic,2025,0.505
+Cuba,2000,0.04
+Cuba,2001,0.041
+Cuba,2002,0.041
+Cuba,2003,0.04
+Cuba,2004,0.04
+Cuba,2005,0.041
+Cuba,2006,0.041
+Cuba,2007,0.041
+Cuba,2008,0.039
+Cuba,2009,0.05
+Cuba,2010,0.05
+Cuba,2011,0.051
+Cuba,2012,0.052
+Cuba,2013,0.057
+Cuba,2014,0.057
+Cuba,2015,0.057
+Cuba,2016,0.055
+Cuba,2017,0.058
+Cuba,2018,0.061
+Cuba,2019,0.062
+Cuba,2020,0.06
+Cuba,2021,0.056
+Cuba,2022,0.056
+Cuba,2023,0.055
+Cuba,2024,0.056
+Cuba,2025,0.057
+Paraguay,2000,0.391
+Paraguay,2001,0.391
+Paraguay,2002,0.391
+Paraguay,2003,0.409
+Paraguay,2004,0.428
+Paraguay,2005,0.427
+Paraguay,2006,0.433
+Paraguay,2007,0.446
+Paraguay,2008,0.493
+Paraguay,2009,0.502
+Paraguay,2010,0.509
+Paraguay,2011,0.503
+Paraguay,2012,0.48
+Paraguay,2013,0.407
+Paraguay,2014,0.414
+Paraguay,2015,0.416
+Paraguay,2016,0.414
+Paraguay,2017,0.418
+Paraguay,2018,0.417
+Paraguay,2019,0.42
+Paraguay,2020,0.42
+Paraguay,2021,0.427
+Paraguay,2022,0.43
+Paraguay,2023,0.42
+Paraguay,2024,0.39
+Paraguay,2025,0.376
